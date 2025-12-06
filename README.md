@@ -103,9 +103,4 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 
-## <a name="more">🚀 More</a>
 
-
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
